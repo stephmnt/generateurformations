@@ -1,4 +1,4 @@
-# Générateur d'objectifs pédagogiques bullshit
+# Générateur d'objectifs pédagogiques pour formateurs feignants
 
 À force de répondre tout le temps aux mêmes appels d'offres, on finit par se simplifier la vie.
 
@@ -8,4 +8,6 @@ Le script pioche aléatoirement une occurrence afin de générer un objectif pé
 
 La probabilité fait que certains de ces objectifs seront vraisemblables, voir pertinents ; d'autres seront parfaitement absurdes... Amusez-vous bien !
 
-PS: Il est possible de me proposer d'enrichir le tableau de propositions différentes [en cliquant ici](https://github.com/stephmnt/generateurformations/issues/new) ! 
+[Voir le générateur en action](https://stephma.net/generateurformations)
+
+PS: Il est possible de me proposer d'enrichir le tableau de propositions différentes [en cliquant ici](https://github.com/stephmnt/generateurformations/issues/new) !
