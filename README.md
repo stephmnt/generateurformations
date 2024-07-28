@@ -8,6 +8,6 @@ Le script pioche aléatoirement une occurrence afin de générer un objectif pé
 
 La probabilité fait que certains de ces objectifs seront vraisemblables, voir pertinents ; d'autres seront parfaitement absurdes... Amusez-vous bien !
 
-[Voir le générateur en action](https://stephma.net/generateurformations)
+[Voir le générateur en action]([https://stephma.net/generateurformations](https://stephmnt.github.io/generateurformations/))
 
 PS: Il est possible de me proposer d'enrichir le tableau de propositions différentes [en cliquant ici](https://github.com/stephmnt/generateurformations/issues/new) !
